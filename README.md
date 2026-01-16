@@ -28,26 +28,4 @@ I'm an Information Technology student at **Dalat University** and a Web Develope
 * **2D Graphic Designer @ Freelance**
     * Crafting visual assets, branding materials, and UI elements.
 * **Education**: Bachelor of Engineering in IT, **Dalat University** (Class of 2025 - 2029).
-
 ---
-
-### 📊 GitHub Stats
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Stewiclez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stewiclez&layout=compact&theme=tokyonight&langs_count=6" />
-</p>
-
----
-
-### 🌱 What I'm working on
-* 🔭 **Song Phương Projects**: Building high-performance digital experiences.
-* 🎨 **Creative Design**: Integrating 2D visual assets into modern UI/UX.
-* 📚 **Learning**: Always expanding my knowledge in modern web frameworks and SEO strategies.
-
-### 📫 Connect with me
-* **Location**: Dalat, Vietnam 🇻🇳
-* **Languages**: Vietnamese (Native), English (Independent)
-* **GitHub**: [@Stewiclez](https://github.com/Stewiclez)
-
----
-*"Turning complex technical challenges into elegant digital solutions."*
