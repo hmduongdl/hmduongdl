@@ -1,5 +1,4 @@
-# Hi there, I'm Hoang Minh Duong (Stewiclez) 👋
-### About me
+# About me
 I'm an Information Technology student at **Dalat University** and a Web Developer at **Song Phương Technology**. I specialize in building modern web experiences that bridge the gap between high-performance code and intuitive design.
 ---
 ### 🛠 Tech Stack & Creative Tools
