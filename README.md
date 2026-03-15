@@ -9,5 +9,5 @@ I'm an Information Technology student at **Dalat University** and a Web Develope
     * Focusing on SEO optimization and iterative product updates.
 * **2D Graphic Designer @ Freelance**
     * Crafting visual assets, branding materials, and UI elements.
-* **Education**: Bachelor of Engineering in IT, **Dalat University** (Class of 2025 - 2029).
+* **Education**: Bachelor of Engineering in IT, **Dalat University** (2025 - 2029).
 ---
